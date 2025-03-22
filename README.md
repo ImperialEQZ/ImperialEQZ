@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi, I'm <a href = "https://github.com/ImperialEQZ" target = "_blank"> Alexander </a> 👋 </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00BFFF&lines=Computer+science+student)](https://git.io/typing-svg)
+
 <!--
 **ImperialEQZ/ImperialEQZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
