@@ -1,10 +1,13 @@
-<h1 align = "center"> Hi, I'm <a href = "https://github.com/ImperialEQZ" target = "_blank"> Alexander </a> 👋 </h1>
+### Hi there 👋, my name is Alexander
 #### I am Computer Science and Computer Engineering Student
-![I am Computer Science and Computer Engineering Student](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![I am Computer Science and Computer Engineering Student](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI2NDQzMzcsIm5iZiI6MTc0MjY0NDAzNywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzIyVDExNDcxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxNGI3YmFkYjBkMzVkMGM3OWZkNTc1YWI3ODlhN2NiN2FhYjBmNjg4YjQyNzg5MTZmYTdiNGViNDA1ZGViNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zoWUzU2E4lbArgp6W70hQmQhgDyY5q8EaYgQvoUFiHM)
 
 I'm learning programming and developing in this business.
 
-- :sunglasses: I’m currently working on this page. 
-<!--
-**ImperialEQZ/ImperialEQZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
